@@ -1,0 +1,40 @@
+Deep Learning Anti-Fraud Model for Internet Loan Where We Are Going
+
+
+Internet nance, loan fraud detection, deep learning, nancial model.
+
+
+DeepLearning_AntiFraud_Model_for_InternetLoan
+
+
+
+deeplearning_antifraud_model_for_internetLoan
+
+
+Accepted
+Not Accepted
+
+
+Loan_Status_Prediction
+
+Idno
+Age
+Experience
+Income
+ZIP_Code
+Family
+CCAvg
+Education
+Mortgage
+Securities_Account
+CD_Account
+Online
+CreditCard
+prediction_svm
+prediction_Logistic
+prediction_rfc
+prediction_dtc
+prediction_knc
+
+
+Loan_Status_Prediction,detection_ratio,detection_accuracy
